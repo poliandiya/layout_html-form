@@ -8,11 +8,11 @@ fieldset:first-child {
   margin: 0;
 }
 
-.field{
+.field {
   margin-top: 10px;
+  display: block;
 }
 
-input:first-of-type,
-span {
+.field:first-of-type {
   margin: 0;
 }

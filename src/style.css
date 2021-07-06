@@ -1,6 +1,6 @@
 /* styles go here */
 
-fieldset {
+.fldset {
   margin: 20px 0;
 }
 
@@ -8,8 +8,7 @@ fieldset:first-child {
   margin: 0;
 }
 
-input,
-select {
+.field{
   margin-top: 10px;
 }
 

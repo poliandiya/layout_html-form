@@ -1,1 +1,19 @@
 /* styles go here */
+
+fieldset {
+  margin: 20px 0;
+}
+
+fieldset:first-child {
+  margin: 0;
+}
+
+input,
+select {
+  margin-top: 10px;
+}
+
+input:first-of-type,
+span {
+  margin: 0;
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAEA,QACE,aACF,CAEA,oBACE,QACF,CAEA,OACE,eACF,CAEA,qBACE,QACF","file":"style.2a3f1830.css","sourceRoot":"../src","sourcesContent":["/* styles go here */\n\n.fldset {\n  margin: 20px 0;\n}\n\n.fldset:first-child {\n  margin: 0;\n}\n\n.field {\n  margin-top: 10px;\n}\n\n.field:first-of-type {\n  margin: 0;\n}\n"]}
